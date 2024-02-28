@@ -1,0 +1,5 @@
+homepage: "https://www.accessiblyapp.com"
+documentation: "https://www.accessiblyapp.com/documentation"
+versions:
+  - sha: [commit SHA number]
+    changeNotes: Initial release
