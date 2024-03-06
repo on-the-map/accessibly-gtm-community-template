@@ -11,6 +11,6 @@ This template provides an easy and efficient way to integrate the Accessibly App
 ## Quick Links
 
 - **Homepage**: [Accessibly App](https://www.accessiblyapp.com)
-- **Documentation**: [Accessibly App Documentation](https://www.accessiblyapp.com/documentation)
+- **Documentation**: [Accessibly App Documentation](https://accessiblyapp.com/integrate-using-google-tag-manager/)
 
 For detailed instructions on how to use this template and customize the Accessibly App AI widget for your needs, please refer to the documentation link provided above.
