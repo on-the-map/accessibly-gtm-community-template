@@ -38,7 +38,7 @@ ___TEMPLATE_PARAMETERS___
     "name": "domainId",
     "displayName": "Accessibly Domain Identification Number",
     "simpleValueType": true,
-    "help": "Some text on where to get and how to add the domain id",
+    "help": "Locate your Accessibly Domain ID in your dashboard at dash.accessiblyapp.com, under the Embed URL section. Example ID: 34a7f3af-dd3f-4d3e-b67a-cd4668a593bf",
     "valueValidators": [
       {
         "type": "STRING_LENGTH",
