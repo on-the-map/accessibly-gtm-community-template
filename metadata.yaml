@@ -1,5 +1,5 @@
 homepage: "https://www.accessiblyapp.com"
 documentation: "https://accessiblyapp.com/integrate-using-google-tag-manager/"
 versions:
-  - sha: 4b0256fe20e2db1e6dceb920bb72fd85d436269e
+  - sha: 87044fa0ee7f0098dfc2138a05098b44ec8ae9d8
     changeNotes: Initial release
