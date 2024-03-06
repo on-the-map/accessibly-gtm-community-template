@@ -46,6 +46,9 @@ ___TEMPLATE_PARAMETERS___
           36,
           36
         ]
+      },
+      {
+        "type": "NON_EMPTY"
       }
     ]
   }
@@ -59,8 +62,6 @@ const log = require('logToConsole');
 const injectScript = require('injectScript');
 
 const domainId = data.domainId;
-
-log('domainId: ', domainId);
 
 injectScript('https://dash.accessiblyapp.com/widget/' + encode(domainId) + '/autoload.js', data.gtmOnSuccess, data.gtmOnFailure);
 
